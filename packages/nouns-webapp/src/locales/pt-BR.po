@@ -13,7 +13,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "100% of Noun auction proceeds are trustlessly sent to the treasury."
-msgstr ""
+msgstr "100% da arrecadação dos leilões são enviados automaticamente (trustlessly) para o tesouro."
 
 #: src/pages/Nounders/index.tsx
 msgid "3.5 artists, 6.5 technologists"
@@ -91,7 +91,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "All Nouns are members of Nouns DAO."
-msgstr ""
+msgstr "Todos os Nouns são membros do Nouns DAO"
 
 #: src/pages/CreateProposal/index.tsx
 msgid "All Proposals"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Artwork is generative and stored directly on-chain (not IPFS)."
-msgstr ""
+msgstr "As obras de arte são generativas e armazenadas diretamente on-chain (Não IPFS)"
 
 #: src/components/AuctionTimer/index.tsx
 #: src/components/AuctionTimer/index.tsx
@@ -112,7 +112,7 @@ msgstr ""
 
 #: src/components/AuctionTimer/index.tsx
 msgid "Auction ends in"
-msgstr ""
+msgstr "Leilão termina em"
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 msgid "Back"
@@ -190,7 +190,7 @@ msgstr ""
 
 #: src/components/NavWallet/WalletConnectButton/index.tsx
 msgid "Connect"
-msgstr ""
+msgstr "Conecte"
 
 #: src/components/ProposalHeader/index.tsx
 msgid "Connect a wallet to vote."
@@ -215,7 +215,7 @@ msgstr ""
 
 #: src/components/CurrentBid/index.tsx
 msgid "Current bid"
-msgstr ""
+msgstr "Lance corrente"
 
 #: src/components/NavBar/index.tsx
 msgid "DAO"
@@ -223,7 +223,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Daily Auctions"
-msgstr ""
+msgstr "Leilões Diários"
 
 #: src/components/NounProfileVoteRow/index.tsx
 #: src/components/ProposalStatus/index.tsx
@@ -256,7 +256,7 @@ msgstr "TODOS OS DIAS,"
 
 #: src/components/Documentation/index.tsx
 msgid "Each time an auction is settled, the settlement transaction will also cause a new Noun to be minted and a new 24 hour auction to begin."
-msgstr ""
+msgstr "Cada vez que um leilão é liquidado, a transação de liquidação também fará com que um novo Noun seja mintado e um novo leilão de 24 horas seja iniciado."
 
 #: src/pages/Vote/index.tsx
 msgid "Ended"
@@ -376,7 +376,7 @@ msgstr ""
 
 #: src/components/AuctionActivity/index.tsx
 msgid "Help mint the next Noun"
-msgstr ""
+msgstr "Ajuda a mintar o próximo Noun"
 
 #: src/components/Documentation/index.tsx
 msgid "In addition to the precautions taken by Compound Governance, Nounders have given themselves a special veto right to ensure that no malicious proposals can be passed while the Noun supply is low. This veto right will only be used if an obviously harmful governance proposal has been passed, and is intended as a last resort."
@@ -412,7 +412,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "No explicit rules exist for attribute scarcity; all Nouns are equally rare."
-msgstr ""
+msgstr "Não existem regras explícitas para escassez de atributos; todos os Nouns são igualmente raros"
 
 #: src/components/Proposals/index.tsx
 msgid "No proposals found"
@@ -450,7 +450,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Nounders receive rewards in the form of Nouns (10% of supply for first 5 years)."
-msgstr ""
+msgstr "Os Nounders são recompensados com Nouns (10% da oferta durante os primeiros 5 anos)."
 
 #: src/components/Documentation/index.tsx
 msgid "Nounders will proveably revoke this veto right when they deem it safe to do so. This decision will be based on a healthy Noun distribution and a community that is engaged in the governance process."
@@ -476,7 +476,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns DAO uses a fork of {compoundGovLink}."
-msgstr ""
+msgstr "Nouns DAO usa um fork do {compoundGovLink}."
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns DAO utilizes a fork of {compoundGovLink} and is the main governing body of the Nouns ecosystem. The Nouns DAO treasury receives 100% of ETH proceeds from daily Noun auctions. Each Noun is an irrevocable member of Nouns DAO and entitled to one vote in all governance matters. Noun votes are non-transferable (if you sell your Noun the vote goes with it) but delegatable, which means you can assign your vote to someone else as long as you own your Noun."
@@ -500,7 +500,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns artwork is in the {publicDomainLink}."
-msgstr ""
+msgstr "As obras de arte dos Nouns estão em {publicDomainLink}."
 
 #: src/pages/Governance/index.tsx
 msgid "Nouns govern <0>Nouns DAO</0>. Nouns can vote on proposals or delegate their vote to a third party. A minimum of <1>{nounsRequired} {0}</1> is required to submit proposals."
@@ -516,11 +516,11 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "One Noun is equal to one vote."
-msgstr ""
+msgstr "Um Noun equivale a um voto."
 
 #: src/components/Documentation/index.tsx
 msgid "One Noun is trustlessly auctioned every 24 hours, forever."
-msgstr ""
+msgstr "Um Noun é leiloado automaticamente (trustlessly) a cada 24 horas, para sempre."
 
 #: src/pages/Playground/index.tsx
 msgid "Only 32x32 PNG images are accepted"
@@ -539,7 +539,7 @@ msgstr ""
 #: src/components/Bid/index.tsx
 #: src/components/Bid/index.tsx
 msgid "Place bid"
-msgstr ""
+msgstr "Efetue um lance"
 
 #: src/components/Documentation/index.tsx
 #: src/components/NavBar/index.tsx
@@ -642,7 +642,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Settlement of one auction kicks off the next."
-msgstr ""
+msgstr "A liquidação de um leilão inicia o próximo."
 
 #: src/components/ProfileActivityFeed/index.tsx
 msgid "Show all {0} events"
@@ -691,7 +691,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Summary"
-msgstr ""
+msgstr "Sumário"
 
 #: src/components/NavWallet/index.tsx
 msgid "Switch"
@@ -723,7 +723,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "The Nouns Auction Contract will act as a self-sufficient Noun generation and distribution mechanism, auctioning one Noun every 24 hours, forever. 100% of auction proceeds (ETH) are automatically deposited in the Nouns DAO treasury, where they are governed by Noun owners."
-msgstr ""
+msgstr "O Contrato de Leilão dos Nouns funcionará como um mecanismo autossuficiente de geração e distribuição de Nouns, leiloando um Nouns a cada 24 horas, para sempre. 100% dos lucros do leilão (ETH) são automaticamente depositados no tesouro do Nouns DAO, onde são governados pelos proprietários de Nouns."
 
 #: src/components/Documentation/index.tsx
 msgid "The compressed parts are efficiently converted into a single base64 encoded SVG image on-chain. To accomplish this, each part is decoded into an intermediate format before being converted into a series of SVG rects using batched, on-chain string concatenation. Once the entire SVG has been generated, it is base64 encoded."
@@ -735,7 +735,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "The treasury is controlled exclusively by Nouns via governance."
-msgstr ""
+msgstr "O tesouro é controlado exclusivamente pelos Nouns via governança."
 
 #: src/components/VoteModal/index.tsx
 msgid "There was an error voting for your account."
@@ -780,7 +780,7 @@ msgstr ""
 #: src/components/NavBarTreasury/index.tsx
 #: src/pages/Governance/index.tsx
 msgid "Treasury"
-msgstr ""
+msgstr "Tesouro"
 
 #: src/components/Footer/index.tsx
 msgid "Twitter"
@@ -818,7 +818,7 @@ msgstr ""
 
 #: src/components/BidHistoryBtn/index.tsx
 msgid "View all bids"
-msgstr ""
+msgstr "Veja todos os lances"
 
 #: src/components/Bid/index.tsx
 msgid "Vote for the next Noun"
@@ -851,7 +851,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the system to trustlessly auction Nouns as long as Ethereum is operational and there are interested bidders."
-msgstr ""
+msgstr "Embora a liquidação seja mais fortemente incentivada para o licitante vencedor, ela pode ser acionada por qualquer pessoa, permitindo que o sistema leiloe Nouns (trustlessly), desde que a rede Ethereum esteja operacional e haja licitantes interessados."
 
 #: src/components/NounInfoRowHolder/index.tsx
 #: src/components/Winner/index.tsx
