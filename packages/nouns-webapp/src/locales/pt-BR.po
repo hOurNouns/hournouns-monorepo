@@ -45,7 +45,7 @@ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Accessory"
-msgstr ""
+msgstr "Acessório"
 
 #: src/components/NounProfileVoteRow/index.tsx
 #: src/components/ProposalStatus/index.tsx
@@ -95,7 +95,7 @@ msgstr "Todos os Nouns são membros do Nouns DAO"
 
 #: src/pages/CreateProposal/index.tsx
 msgid "All Proposals"
-msgstr ""
+msgstr "Todas as Propostas"
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 msgid "Arguments"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Background"
-msgstr ""
+msgstr "Fundo"
 
 #: src/components/Documentation/index.tsx
 msgid "Because 100% of Noun auction proceeds are sent to Nouns DAO, Nounders have chosen to compensate themselves with Nouns. Every 10th Noun for the first 5 years of the project (Noun ids #0, #10, #20, #30 and so on) will be automatically sent to the Nounder's multisig to be vested and shared among the founding members of the project."
@@ -153,7 +153,7 @@ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Body"
-msgstr ""
+msgstr "Corpo"
 
 #: src/components/NounInfoRowBirthday/index.tsx
 msgid "Born"
@@ -352,15 +352,15 @@ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Generate Nouns"
-msgstr ""
+msgstr "Gerar Nouns"
 
 #: src/pages/Playground/index.tsx
 msgid "Glasses"
-msgstr ""
+msgstr "Óculos"
 
 #: src/pages/Governance/index.tsx
 msgid "Governance"
-msgstr ""
+msgstr "Governança"
 
 #: src/components/Documentation/index.tsx
 msgid "Governance ‘Slow Start’"
@@ -368,7 +368,7 @@ msgstr "Governança ‘Início Lento’"
 
 #: src/pages/Playground/index.tsx
 msgid "Head"
-msgstr ""
+msgstr "Cabeça"
 
 #: src/components/Holder/index.tsx
 msgid "Held by"
@@ -376,7 +376,7 @@ msgstr ""
 
 #: src/components/AuctionActivity/index.tsx
 msgid "Help mint the next Noun"
-msgstr "Ajuda a mintar o próximo Noun"
+msgstr "Ajude a mintar o próximo Noun"
 
 #: src/components/Documentation/index.tsx
 msgid "In addition to the precautions taken by Compound Governance, Nounders have given themselves a special veto right to ensure that no malicious proposals can be passed while the Noun supply is low. This veto right will only be used if an obviously harmful governance proposal has been passed, and is intended as a last resort."
@@ -416,7 +416,7 @@ msgstr "Não existem regras explícitas para escassez de atributos; todos os Nou
 
 #: src/components/Proposals/index.tsx
 msgid "No proposals found"
-msgstr ""
+msgstr "Nenhuma proposta encontrada"
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 #: src/components/ProposalTransactionFormModal/index.tsx
@@ -430,7 +430,7 @@ msgstr "Noun"
 
 #: src/components/Documentation/index.tsx
 msgid "Noun Seeder Contract"
-msgstr "Contrator Noun Seeder"
+msgstr "Contrato Noun Seeder"
 
 #: src/components/Documentation/index.tsx
 msgid "Noun Traits"
@@ -504,7 +504,7 @@ msgstr "As obras de arte dos Nouns estão em {publicDomainLink}."
 
 #: src/pages/Governance/index.tsx
 msgid "Nouns govern <0>Nouns DAO</0>. Nouns can vote on proposals or delegate their vote to a third party. A minimum of <1>{nounsRequired} {0}</1> is required to submit proposals."
-msgstr ""
+msgstr "Os Nouns governam o <0>Nouns DAO</0>. Os Nouns podem votar em propostas ou delegar seu voto a terceiros. Um mínimo de <1>{nounsRequired} {0}</1> é necessário para enviar propostas."
 
 #: src/components/Banner/index.tsx
 msgid "ONE NOUN,"
@@ -512,7 +512,7 @@ msgstr "UM NOUN,"
 
 #: src/components/Documentation/index.tsx
 msgid "On-Chain Artwork"
-msgstr ""
+msgstr "Obra de Arte On-Chain"
 
 #: src/components/Documentation/index.tsx
 msgid "One Noun is equal to one vote."
@@ -523,7 +523,7 @@ msgid "One Noun is trustlessly auctioned every 24 hours, forever."
 msgstr "Um Noun é leiloado automaticamente (trustlessly) a cada 24 horas, para sempre."
 
 #: src/pages/Playground/index.tsx
-msgid "Only 32x32 PNG images are accepted"
+msgid "Apenas imagens PNG 32x32 são aceitas"
 msgstr ""
 
 #: src/components/ProposalHeader/index.tsx
@@ -590,11 +590,11 @@ msgstr ""
 
 #: src/components/Proposals/index.tsx
 msgid "Proposals"
-msgstr ""
+msgstr "Propostas"
 
 #: src/components/Proposals/index.tsx
 msgid "Proposals submitted by community members will appear here."
-msgstr ""
+msgstr "Propostas enviadas por membros da comunidade aparecerão aqui."
 
 #: src/components/ProposalContent/index.tsx
 msgid "Proposed Transactions"
@@ -667,7 +667,7 @@ msgstr ""
 #: src/components/Proposals/index.tsx
 #: src/components/Proposals/index.tsx
 msgid "Submit Proposal"
-msgstr ""
+msgstr "Enviar Proposta"
 
 #: src/components/VoteModal/index.tsx
 msgid "Submit Vote"
@@ -731,7 +731,7 @@ msgstr "As partes comprimidas são convertidas de forma eficiente em uma única 
 
 #: src/pages/Playground/index.tsx
 msgid "The playground was built using the {nounsProtocolLink}. Noun's traits are determined by the Noun Seed. The seed was generated using {nounsAssetsLink} and rendered using the {nounsSDKLink}."
-msgstr ""
+msgstr "O playground foi construído usando o {nounsProtocolLink}. As características do Noun são determinadas pelo Noun Seed. A seed foi gerada usando {nounsAssetsLink}  e renderizada usando o {nounsSDKLink}."
 
 #: src/components/Documentation/index.tsx
 msgid "The treasury is controlled exclusively by Nouns via governance."
@@ -747,7 +747,7 @@ msgstr ""
 
 #: src/pages/Governance/index.tsx
 msgid "This treasury exists for <0>Nouns DAO</0> participants to allocate resources for the long-term growth and prosperity of the Nouns project."
-msgstr ""
+msgstr "Este tesouro existe para os participantes do <0>Nouns DAO</0> alocarem recursos para o crescimento e prosperidade a longo prazo do projeto Nouns."
 
 #: src/pages/Vote/index.tsx
 msgid "Threshold"
@@ -797,7 +797,7 @@ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Upload Custom Trait"
-msgstr ""
+msgstr "Upload de Característica Customizada"
 
 #: src/components/VoteModal/index.tsx
 msgid "User Already Voted"
@@ -912,7 +912,7 @@ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "You've generated {0} years worth of Nouns"
-msgstr ""
+msgstr "Você gerou {0} anos de Nouns"
 
 #: src/components/VoteModal/index.tsx
 msgid "You've successfully voted on on prop {0}"
@@ -956,7 +956,7 @@ msgstr ""
 
 #: src/components/Bid/index.tsx
 msgid "or more"
-msgstr ""
+msgstr "ou mais"
 
 #: src/components/Documentation/index.tsx
 msgid "public domain"
