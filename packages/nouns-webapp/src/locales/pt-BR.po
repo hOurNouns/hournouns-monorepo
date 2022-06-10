@@ -9,7 +9,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "'Nounders' are the group of ten builders that initiated Nouns. Here are the Nounders:"
-msgstr ""
+msgstr "'Nounders' são o grupo de dez criadores que iniciaram os Nouns. Aqui estão os Nounders:"
 
 #: src/components/Documentation/index.tsx
 msgid "100% of Noun auction proceeds are trustlessly sent to the treasury."
@@ -124,7 +124,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Because 100% of Noun auction proceeds are sent to Nouns DAO, Nounders have chosen to compensate themselves with Nouns. Every 10th Noun for the first 5 years of the project (Noun ids #0, #10, #20, #30 and so on) will be automatically sent to the Nounder's multisig to be vested and shared among the founding members of the project."
-msgstr ""
+msgstr "Como 100% dos lucros do leilão de Nouns são enviados para o Nouns DAO, os Nounders optaram por se compensar com os Nouns. Cada 10º Noun durante os primeiros 5 anos do projeto (Noun ids #0, #10, #20, #30 e assim por diante) será automaticamente enviado a carteira multisig dos Nounders para serem compartilhados entre os membros fundadores do projeto."
 
 #: src/components/Bid/index.tsx
 #: src/components/Bid/index.tsx
@@ -364,7 +364,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Governance ‘Slow Start’"
-msgstr ""
+msgstr "Governança ‘Início Lento’"
 
 #: src/pages/Playground/index.tsx
 msgid "Head"
@@ -380,7 +380,7 @@ msgstr "Ajuda a mintar o próximo Noun"
 
 #: src/components/Documentation/index.tsx
 msgid "In addition to the precautions taken by Compound Governance, Nounders have given themselves a special veto right to ensure that no malicious proposals can be passed while the Noun supply is low. This veto right will only be used if an obviously harmful governance proposal has been passed, and is intended as a last resort."
-msgstr ""
+msgstr "Além das precauções tomadas pela Compound Governance, os Nounders se deram um direito de veto especial para garantir que nenhuma proposta maliciosa possa ser aprovada enquanto a oferta de Nouns estiver baixa. Esse direito de veto só será usado se uma proposta de governança obviamente prejudicial for aprovada, e tem o intuito de ser usado como última opção."
 
 #: src/components/Bid/index.tsx
 msgid "Insufficient bid amount 🤏"
@@ -430,11 +430,11 @@ msgstr "Noun"
 
 #: src/components/Documentation/index.tsx
 msgid "Noun Seeder Contract"
-msgstr ""
+msgstr "Contrator Noun Seeder"
 
 #: src/components/Documentation/index.tsx
 msgid "Noun Traits"
-msgstr ""
+msgstr "Características do Noun"
 
 #: src/components/AuctionActivityNounTitle/index.tsx
 msgid "Noun {0}"
@@ -442,11 +442,11 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Nounder distributions don't interfere with the cadence of 24 hour auctions. Nouns are sent directly to the Nounder's Multisig, and auctions continue on schedule with the next available Noun ID."
-msgstr ""
+msgstr "As distribuições para os nounders não interferem na cadência dos leilões de 24 horas. Os Nouns são enviados diretamente para a carteira Multisig dos Nounders, e os leilões continuam na programação com o próximo ID de Noun disponível."
 
 #: src/components/Documentation/index.tsx
 msgid "Nounder's Reward"
-msgstr ""
+msgstr "Recompensas dos Nounders"
 
 #: src/components/Documentation/index.tsx
 msgid "Nounders receive rewards in the form of Nouns (10% of supply for first 5 years)."
@@ -454,7 +454,7 @@ msgstr "Os Nounders são recompensados com Nouns (10% da oferta durante os prime
 
 #: src/components/Documentation/index.tsx
 msgid "Nounders will proveably revoke this veto right when they deem it safe to do so. This decision will be based on a healthy Noun distribution and a community that is engaged in the governance process."
-msgstr ""
+msgstr "Os Nounders irão comprovadamente revogar esse direito de veto quando julgarem seguro fazê-lo. Esta decisão será baseada em uma distribuição saudável de Nouns e uma comunidade que esteja engajada no processo de governança."
 
 #: src/pages/Nounders/index.tsx
 msgid "Nounders' Reward"
@@ -480,7 +480,7 @@ msgstr "Nouns DAO usa um fork do {compoundGovLink}."
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns DAO utilizes a fork of {compoundGovLink} and is the main governing body of the Nouns ecosystem. The Nouns DAO treasury receives 100% of ETH proceeds from daily Noun auctions. Each Noun is an irrevocable member of Nouns DAO and entitled to one vote in all governance matters. Noun votes are non-transferable (if you sell your Noun the vote goes with it) but delegatable, which means you can assign your vote to someone else as long as you own your Noun."
-msgstr ""
+msgstr "Nouns DAO utiliza um fork do {compoundGovLink} e é o principal mecanismo de governança do ecossistema dos Nouns. O tesouro dos Nouns DAO recebe 100% dos rendimentos de ETH dos leilões diários de Nouns. Cada Noun é um membro irrevogável do Noun DAO e tem direito a um voto em todas as questões de governança. Votos de Nouns são intransferíveis (se você vender seu Noun, o voto vai com ele), mas podem ser delegados, o que significa que você pode atribuir seu voto a outra pessoa, desde que você possua seu Noun."
 
 #: src/pages/Playground/index.tsx
 msgid "Nouns Protocol"
@@ -492,11 +492,11 @@ msgstr "Nouns são um uma tentativa experimental de melhorar a formação de com
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns are generated randomly based Ethereum block hashes. There are no 'if' statements or other rules governing Noun trait scarcity, which makes all Nouns equally rare. As of this writing, Nouns are made up of:"
-msgstr ""
+msgstr "Os Nouns são gerados aleatoriamente com base em hashes de bloco Ethereum. Não há declarações condicionais 'if' ou outras regras que regem a escassez de caracteristicas do Noun, o que torna todos os Nouns igualmente raros. No momento da redação deste texto, as características são compostas por:"
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns are stored directly on Ethereum and do not utilize pointers to other networks such as IPFS. This is possible because Noun parts are compressed and stored on-chain using a custom run-length encoding (RLE), which is a form of lossless compression."
-msgstr ""
+msgstr "Os Nouns são armazenados diretamente na blockchain Ethereum e não utilizam apontadores para outras redes, como IPFS. Isso é possível porque as partes do Noun são compactadas e armazenadas on-chain usando uma codificação run-length (RLE), que é uma forma de compactação sem perdas."
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns artwork is in the {publicDomainLink}."
@@ -711,7 +711,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "The Noun Seeder contract is used to determine Noun traits during the minting process. The seeder contract can be replaced to allow for future trait generation algorithm upgrades. Additionally, it can be locked by the Nouns DAO to prevent any future updates. Currently, Noun traits are determined using pseudo-random number generation:"
-msgstr ""
+msgstr "O contrato Noun Seeder é usado para determinar as características do Noun durante o processo de minting. O contrato seeder pode ser substituído para permitir upgrades futuros do algoritmo de geração de características. Além disso, ele pode ser bloqueado pelo Nouns DAO para evitar quaisquer atualizações futuras. Atualmente, as características dos Nouns são determinadas usando geração de números pseudo-aleatórios:"
 
 #: src/pages/Nounders/index.tsx
 msgid "The Nounders"
@@ -727,7 +727,7 @@ msgstr "O Contrato de Leilão dos Nouns funcionará como um mecanismo autossufic
 
 #: src/components/Documentation/index.tsx
 msgid "The compressed parts are efficiently converted into a single base64 encoded SVG image on-chain. To accomplish this, each part is decoded into an intermediate format before being converted into a series of SVG rects using batched, on-chain string concatenation. Once the entire SVG has been generated, it is base64 encoded."
-msgstr ""
+msgstr "As partes comprimidas são convertidas de forma eficiente em uma única imagem SVG on-chain codificada em base64. Para conseguir isso, cada parte é decodificada em um formato intermediário antes de ser convertida em uma série de retas SVG usando concatenação on-chain de strings em lote. Depois que todo o SVG é gerado, ele é codificado em base64."
 
 #: src/pages/Playground/index.tsx
 msgid "The playground was built using the {nounsProtocolLink}. Noun's traits are determined by the Noun Seed. The seed was generated using {nounsAssetsLink} and rendered using the {nounsSDKLink}."
@@ -763,7 +763,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Trait generation is not truly random. Traits can be predicted when minting a Noun on the pending block."
-msgstr ""
+msgstr "A geração de características não é verdadeiramente aleatória. As características podem ser previstas fazer o mint de um Noun no bloco pendente."
 
 #: src/components/Bid/index.tsx
 #: src/components/Bid/index.tsx
@@ -856,7 +856,7 @@ msgstr "Embora a liquidação seja mais fortemente incentivada para o licitante 
 #: src/components/NounInfoRowHolder/index.tsx
 #: src/components/Winner/index.tsx
 msgid "Winner"
-msgstr ""
+msgstr "Ganhador(a)"
 
 #: src/components/CurrentBid/index.tsx
 msgid "Winning bid"
@@ -876,7 +876,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "You can experiment with off-chain Noun generation at the {playgroundLink}."
-msgstr ""
+msgstr "Você pode experimentar a geração 'off-chain' de Nouns  no {playgroundLink}."
 
 #: src/components/SettleManuallyBtn/index.tsx
 msgid "You can settle manually in 1 minute"
@@ -920,7 +920,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "accessories (137)"
-msgstr ""
+msgstr "acessórios (137)"
 
 #: src/components/AuctionTimer/index.tsx
 msgid "at"
@@ -932,15 +932,15 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "backgrounds (2)"
-msgstr ""
+msgstr "fundos (2)"
 
 #: src/components/Documentation/index.tsx
 msgid "bodies (30)"
-msgstr ""
+msgstr "corpos (30)"
 
 #: src/components/Documentation/index.tsx
 msgid "glasses (21)"
-msgstr ""
+msgstr "óculos (21)"
 
 #: src/components/AuctionTimer/index.tsx
 msgid "h"
@@ -948,7 +948,7 @@ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "heads (234)"
-msgstr ""
+msgstr "cabeças (234)"
 
 #: src/components/AuctionTimer/index.tsx
 msgid "m"
