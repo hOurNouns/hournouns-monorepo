@@ -54,7 +54,7 @@ msgstr ""
 
 #: src/components/ProfileActivityFeed/index.tsx
 msgid "Activity"
-msgstr ""
+msgstr "Atividade"
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 #: src/pages/CreateProposal/index.tsx
@@ -87,7 +87,7 @@ msgstr ""
 
 #: src/pages/Nounders/index.tsx
 msgid "All Noun auction proceeds are sent to the Nouns DAO. For this reason, we, the project's founders (‘Nounders’) have chosen to compensate ourselves with Nouns. Every 10th noun for the first 5 years of the project will be sent to our multisig (5/10), where it will be vested and distributed to individual Nounders."
-msgstr ""
+msgstr "Toda receita dos leilões dos Nouns são enviados para o Nouns DAO. Por este motivo, nós, os fundadores do projeto (‘Nounders’) optamos por nos compensar com Nouns. Cada 10 Nouns durante os primeiros 5 anos do projeto serão enviados para o nosso multisig (5/10), onde serão distribuídos para Nounders individuais."
 
 #: src/components/Documentation/index.tsx
 msgid "All Nouns are members of Nouns DAO."
@@ -141,7 +141,7 @@ msgstr "O lance foi efetuado com sucesso!"
 
 #: src/components/NounInfoCard/index.tsx
 msgid "Bids"
-msgstr ""
+msgstr "Lances"
 
 #: src/components/BidHistoryModal/index.tsx
 msgid "Bids for"
@@ -194,7 +194,7 @@ msgstr "Conecte"
 
 #: src/components/ProposalHeader/index.tsx
 msgid "Connect a wallet to vote."
-msgstr ""
+msgstr "Conecte a carteira para votar."
 
 #: src/components/Proposals/index.tsx
 msgid "Connect wallet to make a proposal."
@@ -202,7 +202,7 @@ msgstr "Conecte a carteira para criar uma proposta."
 
 #: src/components/WalletConnectModal/index.tsx
 msgid "Connect your wallet"
-msgstr ""
+msgstr "Conecte a sua carteira"
 
 #: src/components/CreateProposalButton/index.tsx
 #: src/pages/CreateProposal/index.tsx
@@ -232,11 +232,11 @@ msgstr ""
 
 #: src/components/ProposalContent/index.tsx
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #: src/components/NavWallet/index.tsx
 msgid "Disconnect"
-msgstr ""
+msgstr "Desconectar"
 
 #: src/components/Footer/index.tsx
 msgid "Discord"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: src/components/NounderNounContent/index.tsx
 msgid "For this reason, we, the project's founders (‘Nounders’) have chosen to compensate ourselves with Nouns. Every 10th Noun for the first 5 years of the project will be sent to our multisig (5/10), where it will be vested and distributed to individual Nounders."
-msgstr ""
+msgstr "Por esta razão, nós, os (‘Nounders’) fundadores do projeto, optamos por nos compensar com Nouns. Cada 10º Noun durante os primeiros 5 anos do projeto será enviado para a nossa carteira multisig (5/10), onde será  distribuído para Nounders individuais."
 
 #: src/components/Footer/index.tsx
 msgid "Forums"
@@ -344,11 +344,11 @@ msgstr ""
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 msgid "Function"
-msgstr ""
+msgstr "Funcão"
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 msgid "Function (Optional)"
-msgstr ""
+msgstr "Função (Opcional)"
 
 #: src/pages/Playground/index.tsx
 msgid "Generate Nouns"
@@ -384,15 +384,15 @@ msgstr "Além das precauções tomadas pela Compound Governance, os Nounders se 
 
 #: src/components/Bid/index.tsx
 msgid "Insufficient bid amount 🤏"
-msgstr ""
+msgstr "Valor do lance insuficiente 🤏"
 
 #: src/components/NavLocaleSwitcher/index.tsx
 msgid "Language"
-msgstr ""
+msgstr "Língua"
 
 #: src/components/NounderNounContent/index.tsx
 msgid "Learn more"
-msgstr ""
+msgstr "Saiba mais"
 
 #: src/components/Documentation/index.tsx
 msgid "Learn more below, or start creating Nouns off-chain using the {playgroundLink}."
@@ -400,11 +400,11 @@ msgstr "Saiba mais abaixo, ou comece a criar Nouns off-chain usando o {playgroun
 
 #: src/components/NounInfoRowHolder/index.tsx
 msgid "Loading..."
-msgstr ""
+msgstr "Carregando..."
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 msgid "Next"
-msgstr ""
+msgstr "Próximo"
 
 #: src/components/ProposalTransactionFormModal/index.tsx
 msgid "No arguments required"
@@ -458,7 +458,7 @@ msgstr "Os Nounders irão comprovadamente revogar esse direito de veto quando ju
 
 #: src/pages/Nounders/index.tsx
 msgid "Nounders' Reward"
-msgstr ""
+msgstr "Recompensa dos Nounders"
 
 #: src/pages/Governance/index.tsx
 msgid "Nouns"
@@ -523,8 +523,8 @@ msgid "One Noun is trustlessly auctioned every 24 hours, forever."
 msgstr "Um Noun é leiloado automaticamente (trustlessly) a cada 24 horas, para sempre."
 
 #: src/pages/Playground/index.tsx
-msgid "Apenas imagens PNG 32x32 são aceitas"
-msgstr ""
+msgid "Only 32x32 PNG images are accepted"
+msgstr "Apenas imagens PNG 32x32 são aceitas"
 
 #: src/components/ProposalHeader/index.tsx
 msgid "Only Nouns you owned or were delegated to you before {0} are eligible to vote."
@@ -549,7 +549,7 @@ msgstr ""
 
 #: src/components/Bid/index.tsx
 msgid "Please place a bid higher than or equal to the minimum bid amount of {0} ETH"
-msgstr ""
+msgstr "Por favor dê um lance maior ou igual ao lance mínimo de {0} ETH"
 
 #: src/components/Bid/index.tsx
 #: src/components/Bid/index.tsx
@@ -562,7 +562,7 @@ msgstr ""
 #: src/pages/Vote/index.tsx
 #: src/pages/Vote/index.tsx
 msgid "Please try again."
-msgstr ""
+msgstr "Por favor tente novamente."
 
 #: src/components/ProposalEditor/index.tsx
 msgid "Preview:"
@@ -574,11 +574,11 @@ msgstr "Proposta"
 
 #: src/pages/CreateProposal/index.tsx
 msgid "Proposal Created!"
-msgstr ""
+msgstr "Proposta Criada!"
 
 #: src/pages/Vote/index.tsx
 msgid "Proposal Executed!"
-msgstr ""
+msgstr "Proposta Executada!"
 
 #: src/pages/Vote/index.tsx
 msgid "Proposal Queued!"
@@ -586,7 +586,7 @@ msgstr ""
 
 #: src/components/ProposalHeader/index.tsx
 msgid "Proposal {0}"
-msgstr ""
+msgstr "Proposta {0}"
 
 #: src/components/Proposals/index.tsx
 msgid "Proposals"
@@ -598,7 +598,7 @@ msgstr "Propostas enviadas por membros da comunidade aparecerão aqui."
 
 #: src/components/ProposalContent/index.tsx
 msgid "Proposed Transactions"
-msgstr ""
+msgstr "Transações Propostas"
 
 #: src/pages/Vote/index.tsx
 msgid "Queue"
@@ -619,7 +619,7 @@ msgstr ""
 
 #: src/components/LanguageSelectionModal/index.tsx
 msgid "Select Language"
-msgstr ""
+msgstr "Escolher Língua"
 
 #: src/components/Bid/index.tsx
 msgid "Settle"
@@ -630,7 +630,7 @@ msgstr ""
 #: src/components/Bid/index.tsx
 #: src/components/Bid/index.tsx
 msgid "Settle Auction"
-msgstr ""
+msgstr "Liquidar Leilão"
 
 #: src/components/SettleManuallyBtn/index.tsx
 msgid "Settle manually"
@@ -646,11 +646,11 @@ msgstr "A liquidação de um leilão inicia o próximo."
 
 #: src/components/ProfileActivityFeed/index.tsx
 msgid "Show all {0} events"
-msgstr ""
+msgstr "Mostrar todos os {0} eventos"
 
 #: src/components/ProfileActivityFeed/index.tsx
 msgid "Show fewer"
-msgstr ""
+msgstr "Mostrar menos"
 
 #: src/components/NavWallet/index.tsx
 msgid "Sign out"
@@ -671,11 +671,11 @@ msgstr "Enviar Proposta"
 
 #: src/components/VoteModal/index.tsx
 msgid "Submit Vote"
-msgstr ""
+msgstr "Enviar Voto"
 
 #: src/components/ProposalHeader/index.tsx
 msgid "Submit vote"
-msgstr ""
+msgstr "Enviar voto"
 
 #: src/components/NounProfileVoteRow/index.tsx
 #: src/components/ProposalStatus/index.tsx
@@ -695,11 +695,11 @@ msgstr "Sumário"
 
 #: src/components/NavWallet/index.tsx
 msgid "Switch"
-msgstr ""
+msgstr "Trocar"
 
 #: src/components/NavWallet/index.tsx
 msgid "Switch wallet"
-msgstr ""
+msgstr "Trocar carteira"
 
 #: src/pages/Vote/index.tsx
 msgid "Taken at block"
@@ -707,7 +707,7 @@ msgstr ""
 
 #: src/components/VoteModal/index.tsx
 msgid "Thank you for voting."
-msgstr ""
+msgstr "Obrigado por votar."
 
 #: src/components/Documentation/index.tsx
 msgid "The Noun Seeder contract is used to determine Noun traits during the minting process. The seeder contract can be replaced to allow for future trait generation algorithm upgrades. Additionally, it can be locked by the Nouns DAO to prevent any future updates. Currently, Noun traits are determined using pseudo-random number generation:"
@@ -715,11 +715,11 @@ msgstr "O contrato Noun Seeder é usado para determinar as características do N
 
 #: src/pages/Nounders/index.tsx
 msgid "The Nounders"
-msgstr ""
+msgstr "Os Nounders"
 
 #: src/pages/Nounders/index.tsx
 msgid "The Nounders reward is intended as compensation for our pre and post-launch contributions to the project, and to help us participate meaningfully in governance as the project matures. Since there are 10 Nounders, after 5 years each Nounder could receive up to 1% of the Noun supply."
-msgstr ""
+msgstr "A recompensa dos Nounders destina-se a compensar nossas contribuições pré e pós-lançamento ao projeto e nos ajudar a participar significativamente da governança à medida que o projeto amadurece. Como existem 10 Nounders, após 5 anos cada Nounder pode receber até 1% do suprimento de Nouns."
 
 #: src/components/Documentation/index.tsx
 msgid "The Nouns Auction Contract will act as a self-sufficient Noun generation and distribution mechanism, auctioning one Noun every 24 hours, forever. 100% of auction proceeds (ETH) are automatically deposited in the Nouns DAO treasury, where they are governed by Noun owners."
@@ -755,7 +755,7 @@ msgstr ""
 
 #: src/components/AuctionTimer/index.tsx
 msgid "Time left"
-msgstr ""
+msgstr "Tempo acabou"
 
 #: src/pages/CreateProposal/index.tsx
 msgid "Tip:"
@@ -771,11 +771,11 @@ msgstr "A geração de características não é verdadeiramente aleatória. As c
 #: src/pages/CreateProposal/index.tsx
 #: src/pages/Vote/index.tsx
 msgid "Transaction Failed"
-msgstr ""
+msgstr "Transação Falhou"
 
 #: src/pages/Vote/index.tsx
 msgid "Transaction Successful!"
-msgstr ""
+msgstr "Transação Bem Sucedida!"
 
 #: src/components/NavBarTreasury/index.tsx
 #: src/pages/Governance/index.tsx
@@ -793,7 +793,7 @@ msgstr ""
 
 #: src/pages/Playground/index.tsx
 msgid "Upload"
-msgstr ""
+msgstr "Upload"
 
 #: src/pages/Playground/index.tsx
 msgid "Upload Custom Trait"
@@ -944,7 +944,7 @@ msgstr "óculos (21)"
 
 #: src/components/AuctionTimer/index.tsx
 msgid "h"
-msgstr ""
+msgstr "h"
 
 #: src/components/Documentation/index.tsx
 msgid "heads (234)"
@@ -952,7 +952,7 @@ msgstr "cabeças (234)"
 
 #: src/components/AuctionTimer/index.tsx
 msgid "m"
-msgstr ""
+msgstr "m"
 
 #: src/components/Bid/index.tsx
 msgid "or more"
@@ -964,12 +964,12 @@ msgstr ""
 
 #: src/components/AuctionTimer/index.tsx
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: src/pages/Vote/index.tsx
 msgid "{0} votes"
-msgstr ""
+msgstr "{0} votos"
 
 #: src/pages/Vote/index.tsx
 msgid "{moveStateButtonAction} Proposal ⌐◧-◧"
-msgstr ""
+msgstr "{moveStateButtonAction} Proposta ⌐◧-◧"
