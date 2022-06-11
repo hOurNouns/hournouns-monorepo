@@ -137,7 +137,7 @@ msgstr "Histórico de lances"
 
 #: src/components/Bid/index.tsx
 msgid "Bid was placed successfully!"
-msgstr ""
+msgstr "O lance foi efetuado com sucesso!"
 
 #: src/components/NounInfoCard/index.tsx
 msgid "Bids"
@@ -145,11 +145,11 @@ msgstr ""
 
 #: src/components/BidHistoryModal/index.tsx
 msgid "Bids for"
-msgstr ""
+msgstr "Lances para"
 
 #: src/components/BidHistoryModal/index.tsx
 msgid "Bids will appear here"
-msgstr ""
+msgstr "Os lances aparecerão aqui"
 
 #: src/pages/Playground/index.tsx
 msgid "Body"
@@ -687,7 +687,7 @@ msgstr ""
 #: src/pages/CreateProposal/index.tsx
 #: src/pages/Vote/index.tsx
 msgid "Success"
-msgstr ""
+msgstr "Sucesso"
 
 #: src/components/Documentation/index.tsx
 msgid "Summary"
